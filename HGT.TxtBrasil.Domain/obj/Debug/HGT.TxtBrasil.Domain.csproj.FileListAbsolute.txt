@@ -1,0 +1,19 @@
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\HGT.TxtBrasil.Domain.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\HGT.TxtBrasil.Domain.pdb
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\FluentNHibernate.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\Iesi.Collections.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\NHibernate.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\FluentNHibernate.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\Iesi.Collections.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\bin\Debug\NHibernate.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.pdb
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.csprojResolveAssemblyReference.cache
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\HGT.TxtBrasil.Domain.dll
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\HGT.TxtBrasil.Domain.pdb
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\FluentNHibernate.xml
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\Iesi.Collections.xml
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\NHibernate.xml
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.csprojResolveAssemblyReference.cache
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.dll
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.pdb

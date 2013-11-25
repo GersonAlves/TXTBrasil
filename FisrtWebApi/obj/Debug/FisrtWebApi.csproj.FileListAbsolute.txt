@@ -1,0 +1,58 @@
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\FisrtWebApi.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\FisrtWebApi.pdb
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\Antlr3.Runtime.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\EntityFramework.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\Newtonsoft.Json.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Helpers.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Http.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Mvc.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Optimization.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Providers.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Razor.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.WebPages.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\WebGrease.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\EntityFramework.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\Newtonsoft.Json.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Helpers.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Http.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Mvc.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.Razor.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.WebPages.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\obj\Debug\FisrtWebApi.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\FisrtWebApi\obj\Debug\FisrtWebApi.pdb
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\FisrtWebApi.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\FisrtWebApi.pdb
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Net.Http.Formatting.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Helpers.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Http.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Http.WebHost.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Mvc.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Razor.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.WebPages.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.WebPages.Razor.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\EntityFramework.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\Microsoft.Web.Infrastructure.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\Newtonsoft.Json.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Net.Http.Formatting.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Helpers.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Http.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Http.WebHost.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Mvc.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.Razor.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.WebPages.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\bin\System.Web.WebPages.Razor.xml
+C:\LearnMVC\TXTBrasil\FisrtWebApi\obj\Debug\FisrtWebApi.csprojResolveAssemblyReference.cache
+C:\LearnMVC\TXTBrasil\FisrtWebApi\obj\Debug\FisrtWebApi.dll
+C:\LearnMVC\TXTBrasil\FisrtWebApi\obj\Debug\FisrtWebApi.pdb

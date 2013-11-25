@@ -1,0 +1,64 @@
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\ConsumindoWebApi.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\ConsumindoWebApi.pdb
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Antlr3.Runtime.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.Core.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\EntityFramework.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\FisrtWebApi.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Web.Optimization.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Web.Providers.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\WebGrease.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Web.Http.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Newtonsoft.Json.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\FisrtWebApi.pdb
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\EntityFramework.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.Core.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Web.Http.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\bin\Newtonsoft.Json.xml
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.csprojResolveAssemblyReference.cache
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.pdb
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\ConsumindoWebApi.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\ConsumindoWebApi.pdb
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\FisrtWebApi.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\System.Net.Http.Formatting.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\System.Web.Http.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\System.Web.Http.WebHost.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\Newtonsoft.Json.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\FisrtWebApi.pdb
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\System.Net.Http.Formatting.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\Microsoft.Web.Infrastructure.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\EntityFramework.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\DotNetOpenAuth.Core.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\DotNetOpenAuth.OAuth.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\DotNetOpenAuth.OpenId.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\DotNetOpenAuth.AspNet.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\System.Web.Http.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\System.Web.Http.WebHost.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\bin\Newtonsoft.Json.xml
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.csprojResolveAssemblyReference.cache
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.dll
+C:\LearnMVC\TXTBrasil\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.pdb

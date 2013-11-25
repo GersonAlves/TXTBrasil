@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FisrtWebApi", "FisrtWebApi\FisrtWebApi.csproj", "{394C9187-8C7D-4A85-827C-6390A18CA614}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumindoWebApi", "ConsumindoWebApi\ConsumindoWebApi.csproj", "{28CBA522-D802-4C83-9FEE-F3F0FBA2C5CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HGT.TxtBrasil.Domain", "HGT.TxtBrasil.Domain\HGT.TxtBrasil.Domain.csproj", "{10415A15-665A-4063-A356-DB7329CB7284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HGT.TxtBrasilTest", "HGT.TxtBrasil.Test\HGT.TxtBrasilTest.csproj", "{31E54E83-44F0-4511-B69C-BCF4263E9F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HGT.TXtBrasil.Web", "HGT.TXtBrasil.Web\HGT.TXtBrasil.Web.csproj", "{3E706E12-A263-4E98-B223-77BB4F480EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394C9187-8C7D-4A85-827C-6390A18CA614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394C9187-8C7D-4A85-827C-6390A18CA614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394C9187-8C7D-4A85-827C-6390A18CA614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394C9187-8C7D-4A85-827C-6390A18CA614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CBA522-D802-4C83-9FEE-F3F0FBA2C5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CBA522-D802-4C83-9FEE-F3F0FBA2C5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CBA522-D802-4C83-9FEE-F3F0FBA2C5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CBA522-D802-4C83-9FEE-F3F0FBA2C5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10415A15-665A-4063-A356-DB7329CB7284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10415A15-665A-4063-A356-DB7329CB7284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10415A15-665A-4063-A356-DB7329CB7284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10415A15-665A-4063-A356-DB7329CB7284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E54E83-44F0-4511-B69C-BCF4263E9F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E54E83-44F0-4511-B69C-BCF4263E9F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E54E83-44F0-4511-B69C-BCF4263E9F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E54E83-44F0-4511-B69C-BCF4263E9F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E706E12-A263-4E98-B223-77BB4F480EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E706E12-A263-4E98-B223-77BB4F480EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E706E12-A263-4E98-B223-77BB4F480EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E706E12-A263-4E98-B223-77BB4F480EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

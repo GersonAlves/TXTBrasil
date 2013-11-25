@@ -1,0 +1,4 @@
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Test\bin\Debug\HGT.TxtBrasil.Test.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Test\bin\Debug\HGT.TxtBrasil.Test.pdb
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Test\obj\Debug\HGT.TxtBrasil.Test.dll
+C:\Users\nexter\Documents\Visual Studio 2012\Samples\LearnWeb\HGT.TxtBrasil.Test\obj\Debug\HGT.TxtBrasil.Test.pdb
