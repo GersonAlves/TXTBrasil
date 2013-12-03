@@ -17,3 +17,6 @@ C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\NHibernate.xml
 C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.csprojResolveAssemblyReference.cache
 C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.dll
 C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\obj\Debug\HGT.TxtBrasil.Domain.pdb
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\FluentNHibernate.dll
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\Iesi.Collections.dll
+C:\LearnMVC\TXTBrasil\HGT.TxtBrasil.Domain\bin\Debug\NHibernate.dll
